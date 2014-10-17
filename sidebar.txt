@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[stg:home|Door43 (stg)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-stg|d43-stg repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-stg/archive/master.zip|d43-stg.zip]]
+
+**Recent Changes**
+{{changes>ns = stg}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/stg|Ethnologue data]]
+
